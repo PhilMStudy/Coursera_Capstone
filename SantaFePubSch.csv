@@ -1,31 +1,31 @@
-distname,schname,Address,2018_Grade,2018_Grade_rev,Latitude,Longitude,,,
-Santa_Fe_Public_Schools,Academy_at_Larragoite,"2504_Camino_Entrada,_Santa_Fe,_NM",A,4.00,35.6354500000000,-106.024100000000,,,
-Santa_Fe_Public_Schools,Academy_for_Technology_and_the_Classics,"74_A_Van_Nu_Po,_Santa_Fe,_NM",D,1.00,35.5837485000000,-106.011974000000,,,
-Santa_Fe_Public_Schools,Acequia_Madre_Elementary_School,"700_Acequia_Madre,_Santa_Fe,_NM",A,4.00,35.6804698000000,-105.929529800000,,,
-Santa_Fe_Public_Schools,Amy_Biehl_Community_School_At_Rancho_Viejo,"310_Avenida_Del_Sur,_Santa_Fe,_NM",B,3.00,35.5886946000000,-106.049143000000,,,
-Santa_Fe_Public_Schools,Aspen_Community_Magnet_School,"450_La_Madera_St,_Santa_Fe,_NM",D,1.00,35.6849130000000,-105.961394000000,,,
-Santa_Fe_Public_Schools,Atalaya_Elementary_School,"721_Camino_Cabra,_Santa_Fe,_NM",B,3.00,35.6733473000000,-105.913674000000,,,
-Santa_Fe_Public_Schools,Capital_High_School,"4851_Paseo_del_Sol,_Santa_Fe,_NM",C,2.00,35.6201924000000,-106.040075800000,,,
-Santa_Fe_Public_Schools,Carlos_Gilbert_Elementary_School,"300_Griffin_St,_Santa_Fe,_NM",B,3.00,35.6912520000000,-105.941989000000,,,
-Santa_Fe_Public_Schools,Cesar_Chavez_Elementary_School,"6251_Jaguar_Dr,_Santa_Fe,_NM",F,0.00,35.6273647000000,-106.040775200000,,,
-Santa_Fe_Public_Schools,Chaparral_Elementary_School,"2451_Avenida_Chaparral,_Santa_Fe,_NM",B,3.00,35.6431110000000,-105.968796000000,,,
-Santa_Fe_Public_Schools,EJ_Martinez_Elementary_School,"401_W_San_Mateo_Rd,_Santa_Fe,_NM",C,2.00,35.6638441000000,-105.951026400000,,,
-Santa_Fe_Public_Schools,Early_College_Opportunities,"2301_W_Zia_Rd,_Santa_Fe,_NM",A,4.00,35.6470540000000,-105.961492000000,,,
-Santa_Fe_Public_Schools,Edward_Ortiz_Middle_School,"4164_S_Meadows_Rd,_Santa_Fe,_NM",F,0.00,35.6289698000000,-106.033394900000,,,
-Santa_Fe_Public_Schools,El_Camino_Real_Academy_Community,"2500_S_Meadows_Rd,_Santa_Fe,_NM",C,2.00,35.6516531000000,-106.039717100000,,,
-Santa_Fe_Public_Schools,El_Dorado_Community_School,"2_Avenida_Torreon,_Santa_Fe,_NM",A,4.00,35.5383420000000,-105.909788900000,,,
-Santa_Fe_Public_Schools,Francis_X_Nava_Elementary_School,"2655_Siringo_Rd,_Santa_Fe,_NM",A,4.00,35.6521790000000,-105.982527300000,,,
-Santa_Fe_Public_Schools,Gonzales_Elementary_School,"851_W_Alameda_St,_Santa_Fe,_NM",C,2.00,35.6901088000000,-105.955581800000,,,
-Santa_Fe_Public_Schools,Kearny_Elementary_School,"901_Avenida_de_las_Campanas,_Santa_Fe,_NM",A,4.00,35.6475143432617,-105.990371704101,,,
-Santa_Fe_Public_Schools,Mandela_International_Magnet_(Mims),"1604_Agua_Fria_St,_Santa_Fe,_NM",C,2.00,35.6749236000000,-105.971026000000,,,
-Santa_Fe_Public_Schools,Milagro_Middle_School,"1720_Llano_St,_Santa_Fe,_NM",B,3.00,35.6559081000000,-105.972863700000,,,
-Santa_Fe_Public_Schools,Nina_Otero_Community_School,"5901_Herrera_Drive,_Santa_Fe,_NM",F,0.00,35.6209564000000,-106.039030200000,,,
-Santa_Fe_Public_Schools,Pinon_Elementary_School,"2921_Camino_de_Los_Caballos,_Santa_Fe,_NM",B,3.00,35.6328850000000,-105.993637300000,,,
-Santa_Fe_Public_Schools,RM_Sweeney_Elementary_School,"501_Airport_Rd,_Santa_Fe,_NM",F,0.00,35.6362590000000,-106.039083000000,,,
-Santa_Fe_Public_Schools,Ramirez_Thomas_Elementary_School,"3200_Calle_Po_Ae_Pi,_Santa_Fe,_NM",A,4.00,35.6436023000000,-106.032589600000,,,
-Santa_Fe_Public_Schools,Salazar_Elementary_School,"1231_Apache_Ave,_Santa_Fe,_NM",C,2.00,35.6642034000000,-105.980310800000,,,
-Santa_Fe_Public_Schools,Santa_Fe_Engage,"2504_Camino_Entrada,_Santa_Fe,_NM",A,4.00,35.6382180000000,-106.019244000000,,,
-Santa_Fe_Public_Schools,Santa_Fe_High_School,"2100_Yucca_St,_Santa_Fe,_NM",B,3.00,35.6515640000000,-105.973921000000,,,
-Santa_Fe_Public_Schools,Tesuque_Elementary_School,"1555_Bishops_Lodge_Rd,_Santa_Fe,_NM",C,2.00,35.7465133666992,-105.922531127929,,,
-Santa_Fe_Public_Schools,Wood-Gormley_Elementary_School,"141_E_Booth_St,_Santa_Fe,_NM",C,2.00,35.6796552000000,-105.940175300000,,,
-Santa_Fe_Public_Schools,ZZ_Santa_Fe_Public_Schools,District_Average,C,2.45,35.6480309244814,-105.985853894208,,,
+distname,schname,Address,2018_Grade,2018_Grade_rev,Latitude,Longitude
+Santa Fe Public Schools,Academy at Larragoite,"2504 Camino Entrada, Santa Fe, NM",A,4,35.63545,-106.0241
+Santa Fe Public Schools,Academy for Technology and the Classics,"74 A Van Nu Po, Santa Fe, NM",D,1,35.5837485,-106.011974
+Santa Fe Public Schools,Acequia Madre Elementary School,"700 Acequia Madre, Santa Fe, NM",A,4,35.6804698,-105.9295298
+Santa Fe Public Schools,Amy Biehl Community School At Rancho Viejo,"310 Avenida Del Sur, Santa Fe, NM",B,3,35.5886946,-106.049143
+Santa Fe Public Schools,Aspen Community Magnet School,"450 La Madera St, Santa Fe, NM",D,1,35.684913,-105.961394
+Santa Fe Public Schools,Atalaya Elementary School,"721 Camino Cabra, Santa Fe, NM",B,3,35.6733473,-105.913674
+Santa Fe Public Schools,Capital High School,"4851 Paseo del Sol, Santa Fe, NM",C,2,35.6201924,-106.0400758
+Santa Fe Public Schools,Carlos Gilbert Elementary School,"300 Griffin St, Santa Fe, NM",B,3,35.691252,-105.941989
+Santa Fe Public Schools,Cesar Chavez Elementary School,"6251 Jaguar Dr, Santa Fe, NM",F,0,35.6273647,-106.0407752
+Santa Fe Public Schools,Chaparral Elementary School,"2451 Avenida Chaparral, Santa Fe, NM",B,3,35.643111,-105.968796
+Santa Fe Public Schools,EJ Martinez Elementary School,"401 W San Mateo Rd, Santa Fe, NM",C,2,35.6638441,-105.9510264
+Santa Fe Public Schools,Early College Opportunities,"2301 W Zia Rd, Santa Fe, NM",A,4,35.647054,-105.961492
+Santa Fe Public Schools,Edward Ortiz Middle School,"4164 S Meadows Rd, Santa Fe, NM",F,0,35.6289698,-106.0333949
+Santa Fe Public Schools,El Camino Real Academy Community,"2500 S Meadows Rd, Santa Fe, NM",C,2,35.6516531,-106.0397171
+Santa Fe Public Schools,El Dorado Community School,"2 Avenida Torreon, Santa Fe, NM",A,4,35.538342,-105.9097889
+Santa Fe Public Schools,Francis X Nava Elementary School,"2655 Siringo Rd, Santa Fe, NM",A,4,35.652179,-105.9825273
+Santa Fe Public Schools,Gonzales Elementary School,"851 W Alameda St, Santa Fe, NM",C,2,35.6901088,-105.9555818
+Santa Fe Public Schools,Kearny Elementary School,"901 Avenida de las Campanas, Santa Fe, NM",A,4,35.64751434,-105.9903717
+Santa Fe Public Schools,Mandela International Magnet (Mims),"1604 Agua Fria St, Santa Fe, NM",C,2,35.6749236,-105.971026
+Santa Fe Public Schools,Milagro Middle School,"1720 Llano St, Santa Fe, NM",B,3,35.6559081,-105.9728637
+Santa Fe Public Schools,Nina Otero Community School,"5901 Herrera Drive, Santa Fe, NM",F,0,35.6209564,-106.0390302
+Santa Fe Public Schools,Pinon Elementary School,"2921 Camino de Los Caballos, Santa Fe, NM",B,3,35.632885,-105.9936373
+Santa Fe Public Schools,RM Sweeney Elementary School,"501 Airport Rd, Santa Fe, NM",F,0,35.636259,-106.039083
+Santa Fe Public Schools,Ramirez Thomas Elementary School,"3200 Calle Po Ae Pi, Santa Fe, NM",A,4,35.6436023,-106.0325896
+Santa Fe Public Schools,Salazar Elementary School,"1231 Apache Ave, Santa Fe, NM",C,2,35.6642034,-105.9803108
+Santa Fe Public Schools,Santa Fe Engage,"2504 Camino Entrada, Santa Fe, NM",A,4,35.638218,-106.019244
+Santa Fe Public Schools,Santa Fe High School,"2100 Yucca St, Santa Fe, NM",B,3,35.651564,-105.973921
+Santa Fe Public Schools,Tesuque Elementary School,"1555 Bishops Lodge Rd, Santa Fe, NM",C,2,35.74651337,-105.9225311
+Santa Fe Public Schools,Wood-Gormley Elementary School,"141 E Booth St, Santa Fe, NM",C,2,35.6796552,-105.9401753
+Santa Fe Public Schools,ZZ Santa Fe Public Schools,District Average,C,2.45,35.64803092,-105.9858539
